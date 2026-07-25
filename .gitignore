@@ -1,0 +1,42 @@
+# ==========================================
+# SEGURANÇA (NUNCA SUBA ESTES ARQUIVOS)
+# ==========================================
+.env
+.streamlit/secrets.toml
+
+# ==========================================
+# Ambientes Virtuais (Virtual Environments)
+# ==========================================
+venv/
+env/
+.venv/
+env.bak/
+venv.bak/
+
+# ==========================================
+# Cache e Bytecode do Python
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# ==========================================
+# YOLOv8 e Visão Computacional (Outputs)
+# ==========================================
+runs/
+# *.pt  
+
+# ==========================================
+# Logs e Bancos de Dados Locais
+# ==========================================
+*.log
+*.sqlite
+*.db
+*.sqlite3
+
+# ==========================================
+# Arquivos de Sistema Operacional
+# ==========================================
+.DS_Store
+Thumbs.db

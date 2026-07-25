@@ -1,1 +1,1 @@
-# computer-vision
+# visao-computacional
